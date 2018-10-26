@@ -135,7 +135,7 @@ function startTimer() {
 }
 */
 
-let width = 100000600;
+let width = 600;
 
 function timerDiv() {
     width -= 2;
